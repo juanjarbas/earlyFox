@@ -10,39 +10,34 @@
 </p>
 
 <!-- Sobre -->
-## Sobre
-
-o "EarlyFox" é um site que destaca o projeto de TCC dos estudantes do curso técnico em desenvolvimeto de sistemas da Etec Guaianases, apresentando informações detalhadas sobre o sistema desenvolvido e a equipe por trás dele. Além disso, ele pode servir como uma plataforma para conectar o projeto de TCC ao site "YourParty".
+<h1 align="center"> Sobre</h1>
+<p align="center">
+  o "EarlyFox" é um site que destaca o projeto de TCC dos estudantes do curso técnico em desenvolvimeto de sistemas da Etec Guaianases, apresentando informações detalhadas sobre o sistema desenvolvido e a equipe   por trás dele. Além disso, ele pode servir como uma plataforma para conectar o projeto de TCC ao site "YourParty".
+</p>
 
 <!-- Funcionalidades -->
-## Funcionalidades
+<h1 align="center"> Funcionalidades </h1>
 
-- Página Inicial:
-A página inicial do site EarlyFox apresenta uma breve introdução, destacando seu compromisso com a inovação e o desenvolvimento de software de alta qualidade. Um logotipo e uma imagem de destaque podem ser incluídos para dar uma identidade visual à empresa.
-
-- Histórico da Equipe:
-Esta seção fornece uma visão geral da equipe de estudantes que desenvolveu o projeto EarlyFox. Isso pode incluir informações sobre a formação acadêmica dos membros da equipe, suas áreas de especialização e como eles se uniram para criar a empresa fictícia EarlyFox Software.
-
-- Plataformas de Atuação:
-A equipe pode detalhar as diferentes plataformas em que eles atuam. Isso pode incluir o desenvolvimento para a web, desktop e dispositivos móveis, destacando as tecnologias e linguagens de programação que eles dominam em cada plataforma.
-
-Informações sobre o YourParty:
-Dentro do site EarlyFox, há uma seção dedicada ao sistema "YourParty". Os visitantes podem obter informações detalhadas sobre o sistema, incluindo sua finalidade, funcionalidades, tecnologias utilizadas e qualquer outro detalhe relevante. Também podem ser incluídos capturas de tela ou demonstrações interativas do sistema.
-
-- Equipe:
-Nesta seção, os visitantes podem conhecer os membros da equipe de estudantes em detalhes. Cada membro pode ter sua própria página de perfil, onde informações como nome, cargo dentro da equipe, e redes de contato são destacados. Fotos dos membros da equipe podem ser adicionadas para dar um rosto à equipe.
-
-- Parceiros:
-A página de parceiros pode listar empresas ou organizações que colaboraram com a EarlyFo em seus projetos. Pode incluir descrições curtas sobre cada parceria e os benefícios obtidos.
-
-- Formulário de Contato:
-Para facilitar a interação com os visitantes, o site EarlyFox deve incluir um formulário de contato. Os visitantes podem preencher este formulário para fazer perguntas, deixar comentários ou solicitar informações adicionais.
-
-- Design e Layout:
-O design do site EarlyFox deve ser profissional e atraente. É importante escolher uma paleta de cores adequada, fontes legíveis e layouts organizados para garantir uma experiência de usuário agradável. Elementos gráficos, como imagens da equipe e capturas de tela, devem ser bem integrados ao design.
-
-- Navegação Intuitiva:
-A navegação no site deve ser intuitiva, com um menu de fácil acesso que permite aos visitantes encontrar rapidamente as informações de que precisam. O site deve ser responsivo para garantir que ele funcione bem em dispositivos móveis e desktops.
+  - Página Inicial:
+  A página inicial do site EarlyFox apresenta uma breve introdução, destacando seu compromisso com a inovação e o desenvolvimento de software de alta qualidade. Um logotipo e uma imagem de destaque podem ser     incluídos para dar uma identidade visual à empresa.
+  
+  - Histórico da Equipe:
+  Esta seção fornece uma visão geral da equipe de estudantes que desenvolveu o projeto EarlyFox. Isso pode incluir informações sobre a formação acadêmica dos membros da equipe, suas áreas de especialização e como eles se uniram para criar a empresa fictícia EarlyFox Software.
+  
+  - Plataformas de Atuação:
+  A equipe pode detalhar as diferentes plataformas em que eles atuam. Isso pode incluir o desenvolvimento para a web, desktop e dispositivos móveis, destacando as tecnologias e linguagens de programação que eles dominam em cada plataforma.
+  
+  - Informações sobre o YourParty:
+  Dentro do site EarlyFox, há uma seção dedicada ao sistema "YourParty". Os visitantes podem obter informações detalhadas sobre o sistema, incluindo sua finalidade, funcionalidades, tecnologias utilizadas e qualquer outro detalhe relevante. Também podem ser incluídos capturas de tela ou demonstrações interativas do sistema.
+  
+  - Equipe:
+  Nesta seção, os visitantes podem conhecer os membros da equipe de estudantes em detalhes. Cada membro pode ter sua própria página de perfil, onde informações como nome, cargo dentro da equipe, e redes de contato são destacados. Fotos dos membros da equipe podem ser adicionadas para dar um rosto à equipe.
+  
+  - Parceiros:
+  A página de parceiros pode listar empresas ou organizações que colaboraram com a EarlyFo em seus projetos. Pode incluir descrições curtas sobre cada parceria e os benefícios obtidos.
+  
+  - Formulário de Contato:
+  Para facilitar a interação com os visitantes, o site EarlyFox deve incluir um formulário de contato. Os visitantes podem preencher este formulário para fazer perguntas, deixar comentários ou solicitar informações adicionais.
 
 
 <!-- Capturas de Tela -->
